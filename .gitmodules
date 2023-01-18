@@ -1,0 +1,3 @@
+[submodule "legendary-enigma"]
+	path = legendary-enigma
+	url = git@github.com:shatteredsword/legendary-enigma.git
